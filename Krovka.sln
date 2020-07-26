@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krovka", "Krovka\Krovka.csproj", "{1ECA4995-50DF-4673-B1A6-6051CA070AB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECA4995-50DF-4673-B1A6-6051CA070AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECA4995-50DF-4673-B1A6-6051CA070AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECA4995-50DF-4673-B1A6-6051CA070AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECA4995-50DF-4673-B1A6-6051CA070AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B277271-CA1A-46C8-A0D1-742854BFE5CC}
+	EndGlobalSection
+EndGlobal
